@@ -1,0 +1,1 @@
+@py.exe A:\Python\map.py %*
